@@ -111,5 +111,3 @@ Licensed under the GNU General Public License v3.0 (GPL-3.0).
 You are free to use, modify, and redistribute this project under the terms of the GPL-3.0 license. Any distributed modifications must also remain open source and retain attribution to the original author.
 
 See the LICENSE file for details.
-
----
