@@ -7,18 +7,8 @@ WFSC (Welcomer For Secret Community) is a dedicated Discord bot built for the **
 
 ## Preview
 
-When a new member joins the server, the bot dynamically outputs a personalized welcome card alongside an onboarding message:
+<img width="1368" height="651" alt="image" src="https://github.com/user-attachments/assets/69e5d611-85a3-45b4-87a1-35fa9784fc52" />
 
-```text
-Welcome to the official AISC server @Username! 🎉
-
-Please verify to access all channels.
-Please introduce yourself in #introductions and check out #roles to get more roles.
-Feel free to DM @Admin for any queries.
-Please remember this is a SFW community. Make sure to review our #rules.
-
-Enjoy your stay here, and Keep AISC-ing! 🚀
-```
 
 ## Features
 
