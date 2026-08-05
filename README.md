@@ -99,7 +99,7 @@ python bot.py
 
 ## Credits
 
-* **Author:** Outlawishhh
+* **Created by:** Outlawishhh
 * **Target Community:** Built specifically for the **AISC** (AI Student Community) server.
 
 ## License
