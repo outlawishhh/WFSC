@@ -99,12 +99,12 @@ python bot.py
 
 ## Credits
 
-* **Author:** outlawishhh
+* **Author:** Outlawishhh
 * **Target Community:** Built specifically for the **AISC** (AI Student Community) server.
 
 ## License
 
-Copyright (C) 2026 Bytex86
+Copyright (C) 2026 Outlawishhh
 
 Licensed under the GNU General Public License v3.0 (GPL-3.0).
 
